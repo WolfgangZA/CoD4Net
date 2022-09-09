@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\CoD4Net\CoD4Net\bin\Debug\CoD4Net.exe.config
+C:\Users\User\source\repos\CoD4Net\CoD4Net\bin\Debug\CoD4Net.exe
+C:\Users\User\source\repos\CoD4Net\CoD4Net\bin\Debug\CoD4Net.pdb
+C:\Users\User\source\repos\CoD4Net\CoD4Net\obj\Debug\CoD4Net.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CoD4Net\CoD4Net\obj\Debug\CoD4Net.Form1.resources
+C:\Users\User\source\repos\CoD4Net\CoD4Net\obj\Debug\CoD4Net.Properties.Resources.resources
+C:\Users\User\source\repos\CoD4Net\CoD4Net\obj\Debug\CoD4Net.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CoD4Net\CoD4Net\obj\Debug\CoD4Net.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CoD4Net\CoD4Net\obj\Debug\CoD4Net.exe
+C:\Users\User\source\repos\CoD4Net\CoD4Net\obj\Debug\CoD4Net.pdb
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\bin\Debug\CoD4Net.exe.config
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\bin\Debug\CoD4Net.exe
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\bin\Debug\CoD4Net.pdb
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\obj\Debug\CoD4Net.csproj.AssemblyReference.cache
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\obj\Debug\CoD4Net.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\obj\Debug\CoD4Net.Form1.resources
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\obj\Debug\CoD4Net.Properties.Resources.resources
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\obj\Debug\CoD4Net.csproj.GenerateResource.cache
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\obj\Debug\CoD4Net.csproj.CoreCompileInputs.cache
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\obj\Debug\CoD4Net.exe
+G:\My Drive\C#\Call of Duty 4 - Modern Warfare\CoD4Net\CoD4Net\obj\Debug\CoD4Net.pdb
